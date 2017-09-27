@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio Semana 3 de Fundamentos</string>
+    <string name="texto_bienvenida">Bienvenue !</string>
+    <string name="texto_boton">Entrez</string>
+</resources>
